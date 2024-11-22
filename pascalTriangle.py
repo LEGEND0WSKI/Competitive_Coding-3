@@ -1,5 +1,5 @@
 # // Time Complexity :O(n^2) for and while
-# // Space Complexity :O(1) 
+# // Space Complexity :O(n^2) for arr*i // not O(1)
 # // Did this code successfully run on Leetcode : Yes
 # // Any problem you faced while coding this :No
 
